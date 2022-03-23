@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.963483d2.css",
-    "main.js": "/static/js/main.2ded2b12.js",
+    "main.js": "/static/js/main.c7275945.js",
     "static/js/787.3755101b.chunk.js": "/static/js/787.3755101b.chunk.js",
     "static/media/hanzvu-logo.png": "/static/media/hanzvu-logo.536014acca9ee3d2a60d.png",
     "index.html": "/index.html",
     "main.963483d2.css.map": "/static/css/main.963483d2.css.map",
-    "main.2ded2b12.js.map": "/static/js/main.2ded2b12.js.map",
+    "main.c7275945.js.map": "/static/js/main.c7275945.js.map",
     "787.3755101b.chunk.js.map": "/static/js/787.3755101b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.963483d2.css",
-    "static/js/main.2ded2b12.js"
+    "static/js/main.c7275945.js"
   ]
 }
